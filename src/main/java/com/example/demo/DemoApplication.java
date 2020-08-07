@@ -21,6 +21,10 @@ public class DemoApplication {
         ///testt branch
 
     }
+    public void testpush(){
+        ///testpush
+
+    }
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
