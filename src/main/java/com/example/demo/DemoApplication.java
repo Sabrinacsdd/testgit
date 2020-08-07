@@ -9,6 +9,9 @@ public class DemoApplication {
     public void testgit(){
         ///test
 
+    }public void testg2(){
+        ///2
+
     }
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
