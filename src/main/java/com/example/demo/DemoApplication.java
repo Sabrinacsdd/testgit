@@ -17,6 +17,10 @@ public class DemoApplication {
         ///testt branch
 
     }
+    public void pushto(){
+        ///pushto
+
+    }
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
     }
